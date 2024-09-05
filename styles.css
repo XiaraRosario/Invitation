@@ -3,7 +3,7 @@ body {
     text-align: center;
     background-color: #f0f0f0;
     padding: 50px;
-    overflow: hidden; /* Evita el scroll cuando el cuadro se mueve */
+    overflow: hidden; 
 }
 
 .invitacion {
@@ -57,7 +57,7 @@ button:hover {
     font-size: 1.2em;
     margin-top: 20px;
     color: green;
-    display: none; /* Oculto por defecto */
+    display: none; 
 }
 
 @keyframes latido {
